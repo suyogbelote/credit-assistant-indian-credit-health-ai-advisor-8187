@@ -1,0 +1,6 @@
+{
+  "name": "Credit Assistant - Indian Credit Health & AI Advisor",
+  "description": "AI-driven financial platform designed to track, understand, and elevate credit health in India with Gemini intelligence, CIBIL/Experian analytics, debt payoff simulation, and a 5-step roadmap to 750+ score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
